@@ -2,6 +2,7 @@
 
 This repository contains solutions to selected assignments from the **Computer Organisation** course at **TU Delft (Year 1)**.  
 All problems were solved entirely in **Assembly** to practice low-level programming and computer architecture concepts.
+Contributors : @DavidVladuca, @AlexErique11
 
 ## 📂 Contents  
 - **`ColorfulDiscovery.s`** – Assembly solution to the *Colorful Discovery* problem  
