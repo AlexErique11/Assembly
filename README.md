@@ -6,5 +6,5 @@ All problems were solved entirely in **Assembly** to practice low-level programm
 ## 📂 Contents  
 - **`ColorfulDiscovery.s`** – Assembly solution to the *Colorful Discovery* problem  
 - **`brainfuck.s`** – Brainfuck interpreter in Assembly  
-- **`diff.s`** – Program for computing differences  
-- **`printf.s`** – Custom implementation of a `printf`-like function  
+- **`diff.s`** – Program for comparing two texts and showing differences between them
+- **`printf.s`** – Custom implementation of a `printf`-like function from 0
