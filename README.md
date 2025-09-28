@@ -1,6 +1,6 @@
 # Computer Organisation – Assembly Projects  
 
-This repository contains solutions to selected assignments from the **Computer Organisation** course at **TU Delft (Year 1)**.  
+This repository contains solutions to selected assignments from the **Computer Organisation** course at **TU Delft**.  
 All problems were solved entirely in **Assembly** to practice low-level programming and computer architecture concepts.
 
 Contributors : @DavidVladuca, @AlexErique11
